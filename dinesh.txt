@@ -1,0 +1,25 @@
+Bachelor’s Degree in Computer Science, Engineering, or a related field (or equivalent experience).
+
+1+ years** of professional experience as a Full Stack Software Engineer or in a similar role.
+
+Hands on Exposure on Front-End Skills in React or similar technologies.
+
+Hands on Exposure on in server-side programming languages such as Node.js, Python or similar.
+
+Database Expertise: Experience NoSQL databases.     
+
+API Development: Hands on exposure to designing and consuming RESTful APIs and web services.
+
+Cloud Technologies: Familiarity with cloud platforms preferably AWS, including experience with serverless architectures and cloud-native development.
+
+Version Control: Proficient with Git, GitHub, or similar version control tools.
+
+Testing Frameworks: Experience with unit testing, integration testing, and test-driven development (TDD).
+
+Problem-Solving: Strong debugging, troubleshooting, and performance optimization skills.
+
+Collaboration: Excellent communication and interpersonal skills, with the ability to work well in a team-oriented, fast-paced environment.
+
+Bonus Skills: Familiarity with CI/CD tools (e.g., Jenkins, CircleCI, GitLab), containerization technologies like Docker, or familiarity with microservices architecture.
+
+Ability to thrive in a fast-paced, dynamic environment with ambiguity.
